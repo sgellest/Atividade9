@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+
+button {
+    background-color: rgb(76, 124, 76);
+    padding: 10px;
+    border-radius: 10px;
+    color: rgb(203, 231, 186);
+}
+
+
